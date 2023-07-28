@@ -1,1 +1,1 @@
-# Shopping-App
+# Store-Management-System
