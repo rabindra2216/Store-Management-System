@@ -1,0 +1,29 @@
+.td0,.td2,.td4,.td6,.td8,.td10{
+    background-color: cyan;
+}
+.td1,.td3,.td5,.td7,.td9{
+    background-color: pink;
+}
+.th1{
+background-color:blue;
+color: white;
+border: 1px solid black;
+padding-left: 15px;
+padding-right: 15px;
+}
+.btn{
+  background-color: black;
+    color: white;
+}
+.btn:hover{
+    background-color: red;
+}
+
+.td{
+    background-color: aquamarine;
+    text-align: center;
+    border: 0;
+}
+#product{
+    margin: 5px;
+}
